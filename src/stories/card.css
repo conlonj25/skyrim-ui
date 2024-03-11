@@ -1,0 +1,12 @@
+.card {
+	width: 300px;
+	height: 150px;
+	background-color: rgba(0, 0, 0, 0.8);
+	border:3px solid LightGrey;
+	color: white;
+	font-family: "Futura", "Papyrus";
+  }
+  
+  .other {
+	background-color: green;
+  }
